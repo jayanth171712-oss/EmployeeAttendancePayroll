@@ -1,0 +1,11 @@
+
+===== EMPLOYEE SALARY REPORT =====
+Employee ID: 1
+Employee Name: Arun Kumar
+Month: 2026-11
+Monthly Salary: 32000.0
+Present Days: 1
+Absent Days: 1
+Leave Days: 1
+Paid Days: 2
+Calculated Salary: 2133.33
